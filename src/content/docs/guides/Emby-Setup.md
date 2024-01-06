@@ -6,9 +6,9 @@ description: A Quick Setup guide to get started using Emby as a Basestation User
 This will walk you through setting up your emby client to login to BSN! (This is intended for BSN Network users only)
 
 1. Open the Emby app
-2. On the welcome screen, tap the Next button. If it asks permission to access Bluetooth and WiFi, tap the Allow button.
-3. Click on the Skip button to configure manual connection.
-4. Enter your Emby Server Host URL and Port ID.
+2. On the welcome screen, tap the ```Next``` button. If it asks permission to access Bluetooth and WiFi, tap the ```Allow``` button.
+3. Click on the ```Skip``` button to configure manual connection.
+4. Enter your Emby Server Host ```Server URL``` and ```Port```.
 
 | Field | Entry |
 | ----- | ----- |

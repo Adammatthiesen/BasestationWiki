@@ -3,12 +3,9 @@ title: Batocera - Supported Emulators
 description: A reference page in my new Starlight docs site.
 ---
 
+# Emulator Compatibility
 
-
-Emulator Compatibility
-======================
-
-Batocera supports many consoles, platforms and emulation related applications. Below is a list of Emulators and their status as of **12/6/2023** for **PC X86\_64.**
+Batocera supports many consoles, platforms and emulation related applications. Below is a list of Emulators and their status as of ```12/6/2023``` for ```PC X86_64```
 
 |     | Key |
 | --- | --- |
